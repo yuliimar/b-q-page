@@ -1,4 +1,14 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# b-q-page
+
+## Design b-q-page:
+- [B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0)
+  
+## Technologies Used:
+- HTML5 (semantic markup)  
+- CSS3/SCSS (variables, mixins, BEM methodology)  
+- Flexbox/Grid for layout  
+- Media queries (mobile-first approach)  
+- Git & GitHub for version control
+
+  ## Live Preview:
+- https://yuliimar.github.io/b-q-page/
